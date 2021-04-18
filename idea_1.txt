@@ -1,0 +1,50 @@
+<Ngày> 18/4
+<Người cập nhật> Hùng
+<Ghi chú> Dựa theo cập nhật idea_0.txt của Đức
+
+
+Cho thàng nhân vật ns đang kiểu chạy trốn
+Giới thiệu lối chơi
+Với môi trường
+Ko để lộ tên nv
+Cho nó rơi vào tình huống trốn chạy       (nv bị địch đuổi)
+Xong bị dồn  đến đg cùng (ria mép biển)
+
+nv bị rơi xuống như may mắn bị vướng vào cây
+
+bọn địch thấy thế tưởng rơi xuống biển 
+
+(Cảnh này sẽ để sóng,gió rất lớn, sóng dồn dập (cơn bão khá lớn) nên k check đc)
+
+"Ngất"
+
+Xong làm chuyển cảnh
+Thàng nv đang hôn mê
+Nhớ lại lí do phải chạy
+... Cái chỗ này quan trọng này
+Đây là đoạn để giới thiệu nv
+Tên
+Mình ghéo cut screen
+Để cho người ta biết nv
+Xong sau cut thì đến vào lối chơi
+Thằng này đc cứu
+Bởi dân bản địa
+Nhưng nó ko nhớ rõ lí do với ai truy đuổi nó
+Mình sẽ xây dựng 1 thằng phụ trợ
+Trẻ con là vd
+Cho đi cùng
+Để mở game thành kiểu duo
+2 ngày sau, khi hết bão, địch ra chỗ thk nv chính ngã xuống và khắp nơi đấy k thấy j
+liền phát hiện nv chính có thể đã bỏ trốn
+=> Lính phe phản diện đi lùng thằng này
+Nv chính +phụ tá đi clear
+Nhưng làng hay bản ..  Bị đồ sát
+
+Sau khi đánh nhau vs địch, cả 2 bắt đc 1 vài tên địch
+
+<TH-1>  Là điểm nhấn thay đổi tâm lí 2 nv    (suy nghĩ của nv phụ thay đổi theo hành động của ng chơi)
+        <TH-1>  Thằng nv phụ thay đổi, hại nv chính
+                Nv chính chạy trốn
+                ...... (Chưa nghĩ tiếp)
+        <TH-2>  là đồ sát xong chạy tiếp
+                ...... (Chưa nghĩ tiếp)
